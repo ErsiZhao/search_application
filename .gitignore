@@ -3,8 +3,11 @@ frontend/node_modules/
 frontend/.expo/
 frontend/.expo-shared/
 
-# Expo
-frontend/*.log
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/package-lock.json
 
 # Python backend
 backend/venv/

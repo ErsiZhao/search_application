@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Apple", "description": "A tasty red or green fruit." },
+  { "id": 2, "title": "Banana", "description": "Yellow fruit, high in potassium." },
+  { "id": 3, "title": "Grapes", "description": "Small, sweet, can be red or green." },
+  { "id": 4, "title": "Orange", "description": "Citrus fruit rich in vitamin C." }
+]
